@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Musab 👋
 
 <h2>Tech Stack & Tools 🚀</h2>
 
@@ -7,17 +7,17 @@
   <img src="./parrot-logo.svg" width="80" alt="Parrot Security">
 </p>
 
-<!--
-**musabX44/musabX44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------------------------------
+I'm a student interested in **systems programming, computer architecture, AI, aerospace, and theoretical physics**.
 
-Here are some ideas to get you started:
+I like understanding how things work **under the hood** rather than treating them as black boxes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Interested In
+
+*  Systems programming & low-level software
+*  Programming languages
+*  CPU architecture, assembly & computer organization
+*  Linux and Unix systems
+*  Machine learning & alternative LLM architectures
+*  Aerospace
+*  Theoretical physics and engineering
