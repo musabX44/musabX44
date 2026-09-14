@@ -2,7 +2,10 @@
 <h2>Tech Stack & Tools 🚀</h2>
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="70" alt="Tux">
-  <img src="./assets/parrot.png" width="80" alt="Parrot Security">
+  <img src="https://gitlab.com/parrotsec/project/graphics/-/raw/master/logo/parrot-logo.svg"
+     width="80"
+     alt="Parrot Security">
+  
 </p>
 <!--
 **musabX44/musabX44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
