@@ -4,7 +4,7 @@
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="70" alt="Tux">
-  <img src="https://gitlab.com/parrotsec/project/graphics/-/raw/master/logo/parrot-logo.svg" width="80" alt="Parrot Security">
+  <img src="./parrot-logo.svg" width="80" alt="Parrot Security">
 </p>
 
 <!--
