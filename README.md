@@ -6,6 +6,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="70" alt="Tux">
   <img src="./parrot-logo.svg" width="80" alt="Parrot Security">
   <img src="./bash-logo.svg" width="120" alt="Bash">
+  <img src="./Neovim-mark.svg" width="80" alt="Neovim">
 </p>
 
 ---------------------------------------
