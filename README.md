@@ -5,7 +5,7 @@
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="70" alt="Tux">
   <img src="./parrot-logo.svg" width="80" alt="Parrot Security">
-  <img src="./bash-logo.svg" width="80" alt="Bash">
+  <img src="./Bash_Logo_Colored.svg.svg" width="80" alt="Bash">
 
 </p>
 
